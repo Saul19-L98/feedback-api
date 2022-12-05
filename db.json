@@ -11,14 +11,19 @@
       "text": "This is feedback item 2 coming from the backend"
     },
     {
-      "rating": "5",
+      "rating": 5,
       "text": "This is some random emoji 😀",
       "id": 3
     },
     {
-      "rating": "8",
+      "rating": 8,
       "text": "This is some random text",
       "id": 4
+    },
+    {
+      "text": "some random number",
+      "rating": 6,
+      "id": 5
     }
   ]
 }
